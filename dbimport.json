@@ -1,0 +1,5433 @@
+[
+    {
+        "name": "Laser Arena",
+        "location": {
+            "address": "Prešovská 350/45",
+            "lat": 48.160804420921785,
+            "lng": 17.14486113700892,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.160804420921785,
+                    "lng": 17.14486113700892
+                }
+            ],
+            "postalCode": "821 02",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Prešovská 350/45",
+                "821 02 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 903 914 386",
+        "cat": "Laser Tag",
+        "likes": 63,
+        "rating": 7.5,
+        "description": "Outdoor Laser Tag je úplne nový typ Laser Tagovej zábavy, ktorý príde k Vám. Miesto hry si viete určiť sami, alebo Vám ho vieme zabezpečiť my. \nToto je hra, ktorá Vás neprestane baviť! Poďte si s priateľmi či kolegami zahrať spoločenskú adrenalínovú hru Outdoor Laser Tag...",
+        "url": "http://www.laserarena.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until Midnight",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until Midnight"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "1:00 PM–Midnight"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–Midnight"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sun",
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Elledanse Theatre",
+        "location": {
+            "address": "Mileticova 17/b",
+            "lat": 48.154080952226025,
+            "lng": 17.136955503677015,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.154080952226025,
+                    "lng": 17.136955503677015
+                }
+            ],
+            "postalCode": "821 08",
+            "cc": "SK",
+            "city": "Ružinov",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Mileticova 17/b",
+                "821 08 Ružinov",
+                "Slovensko"
+            ]
+        },
+        "cat": "Theater",
+        "likes": 11,
+        "rating": 7.6,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "La Fiesta",
+        "location": {
+            "address": "Prievozská 18",
+            "lat": 48.14819149355404,
+            "lng": 17.14776409294598,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.14819149355404,
+                    "lng": 17.14776409294598
+                }
+            ],
+            "postalCode": "821 09",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Prievozská 18",
+                "821 09 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 917 287 971",
+        "cat": "Salsa Club",
+        "likes": 25,
+        "rating": 6.3,
+        "description": "Prievozská 18, 821 09  Bratislava",
+        "url": "http://www.lafiesta.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 4:00 AM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 4:00 AM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Thu",
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–Midnight"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–4:00 AM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "6:00 PM–4:00 AM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sun",
+                    "open": [
+                        {
+                            "renderedTime": "5:00 PM–11:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_dancestudio_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Salsa by Norika",
+        "location": {
+            "address": "Tomasikova 81.",
+            "lat": 48.165208,
+            "lng": 17.152852,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.165208,
+                    "lng": 17.152852
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Tomasikova 81.",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Salsa Club",
+        "likes": 5,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_dancestudio_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "ELLEDANSE - tanečná škola",
+        "location": {
+            "address": "Miletičova 17/B",
+            "lat": 48.15429498468738,
+            "lng": 17.13727379095929,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15429498468738,
+                    "lng": 17.13727379095929
+                }
+            ],
+            "postalCode": "821 08",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Miletičova 17/B",
+                "821 08 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Dance Studio",
+        "likes": 0,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_dancestudio_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Kai Sushi & Fusion Bar",
+        "location": {
+            "address": "Nevädzova 6",
+            "crossStreet": "Retro Shopping Gallery",
+            "lat": 48.1516057920975,
+            "lng": 17.157823345355713,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.1516057920975,
+                    "lng": 17.157823345355713
+                }
+            ],
+            "postalCode": "821 01",
+            "cc": "SK",
+            "neighborhood": "Ružinov",
+            "city": "Bratislava",
+            "state": "Bratislava Region",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Nevädzova 6 (Retro Shopping Gallery)",
+                "821 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 948 880 530",
+        "cat": "Japanese Restaurant",
+        "likes": 38,
+        "rating": 9.1,
+        "url": "http://www.kaisushi.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sat",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sun",
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–8:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Hanoi Garden",
+        "location": {
+            "address": "Drieňová 33",
+            "lat": 48.1611309215444,
+            "lng": 17.15872786554478,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.1611309215444,
+                    "lng": 17.15872786554478
+                }
+            ],
+            "postalCode": "821 01",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Drieňová 33",
+                "821 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Vietnamese Restaurant",
+        "likes": 32,
+        "rating": 8,
+        "isOpen": null,
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vietnamese_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "La Vita Ristorante",
+        "location": {
+            "address": "Borodáčova 4",
+            "lat": 48.15374523339737,
+            "lng": 17.174128217294193,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15374523339737,
+                    "lng": 17.174128217294193
+                }
+            ],
+            "postalCode": "821 09",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Borodáčova 4",
+                "821 09 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 903 616 441",
+        "cat": "Italian Restaurant",
+        "likes": 79,
+        "rating": 8.8,
+        "description": "La Vita Ristorante to sú chute a vône inšpirované Talianskom v spojení s medzinárodnou gastronómiou.",
+        "url": "http://www.lavita.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Porto",
+        "location": {
+            "address": "Kaštieľska 4",
+            "lat": 48.149631,
+            "lng": 17.166925,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.149631,
+                    "lng": 17.166925
+                }
+            ],
+            "postalCode": "821 05",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Kaštieľska 4",
+                "821 05 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Café",
+        "likes": 8,
+        "rating": 8.1,
+        "isOpen": null,
+        "hours": {
+            "status": "Closed until 1:00 PM tomorrow",
+            "richStatus": {
+                "entities": [],
+                "text": "Closed until 1:00 PM tomorrow"
+            },
+            "isOpen": false,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Thu",
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–11:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–Noon"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "1:00 PM–Noon"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sun",
+                    "open": [
+                        {
+                            "renderedTime": "1:00 PM–11:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "La Putika",
+        "location": {
+            "address": "Trnavská 82",
+            "crossStreet": "Tomášikova",
+            "lat": 48.165138496701786,
+            "lng": 17.150496621084027,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.165138496701786,
+                    "lng": 17.150496621084027
+                }
+            ],
+            "postalCode": "821 02",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Trnavská 82 (Tomášikova)",
+                "821 02 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 948 465 865",
+        "cat": "Café",
+        "likes": 134,
+        "rating": 8.5,
+        "url": "http://www.laputika.sk",
+        "isOpen": null,
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Saffron - Perzská chuť",
+        "location": {
+            "address": "Rožňavská 1A",
+            "lat": 48.16755611890679,
+            "lng": 17.153742000541136,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16755611890679,
+                    "lng": 17.153742000541136
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Rožňavská 1A",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Persian Restaurant",
+        "likes": 16,
+        "rating": 8.7,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/middleeastern_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Filip's HOT DOGS",
+        "location": {
+            "address": "Rožňavská 1A",
+            "lat": 48.16747331305352,
+            "lng": 17.153567608827064,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16747331305352,
+                    "lng": 17.153567608827064
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "neighborhood": "Nové Mesto",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Rožňavská 1A",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 948 678 282",
+        "cat": "Hot Dog Joint",
+        "likes": 24,
+        "rating": 8.6,
+        "description": "hot dogy, americké limonády, Reese's",
+        "isOpen": null,
+        "hours": {
+            "status": "Closed until 10:00 AM tomorrow",
+            "richStatus": {
+                "entities": [],
+                "text": "Closed until 10:00 AM tomorrow"
+            },
+            "isOpen": false,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–7:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–2:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/hotdog_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Bar Zuz (KafeHaus Barzzuz)",
+        "location": {
+            "address": "Rožňavská 1A",
+            "lat": 48.167538436302856,
+            "lng": 17.15357278177554,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.167538436302856,
+                    "lng": 17.15357278177554
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Rožňavská 1A",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 903 206 535",
+        "cat": "Café",
+        "likes": 36,
+        "rating": 8.5,
+        "description": "Kaviareň, ktorá sa špecializuje na predaj čerstvých, gurmánskych káv značky Barzzuz pražených na Slovensku. Vyše 40 druhov plantážnych káv môžete nielen ochutnať, ale aj priamo zakúpiť. Prevažne ide o 100% arabiky, ale nezabudli sme ani na milovníkov robusty.",
+        "url": "http://www.kafehaus.sk",
+        "isOpen": null,
+        "hours": {
+            "status": "Closed until 8:00 AM tomorrow",
+            "richStatus": {
+                "entities": [],
+                "text": "Closed until 8:00 AM tomorrow"
+            },
+            "isOpen": false,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–7:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–2:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Don Papa Bar",
+        "location": {
+            "address": "Seberíniho 2",
+            "crossStreet": "Seberiniho",
+            "lat": 48.15359048544129,
+            "lng": 17.166130814877352,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15359048544129,
+                    "lng": 17.166130814877352
+                }
+            ],
+            "postalCode": "821 03",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Seberíniho 2 (Seberiniho)",
+                "821 03 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 903 228 223",
+        "cat": "Gastropub",
+        "likes": 34,
+        "rating": 7.3,
+        "url": "http://donpapa.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 11:59 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 11:59 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–11:59 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat–Sun",
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–11:59 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 3,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Zlatý Bochník",
+        "location": {
+            "address": "Komárnická 11",
+            "crossStreet": "Solivarská",
+            "lat": 48.158010946730194,
+            "lng": 17.155949779762018,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.158010946730194,
+                    "lng": 17.155949779762018
+                }
+            ],
+            "postalCode": "821 03",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Komárnická 11 (Solivarská)",
+                "821 03 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 908 025 254",
+        "cat": "Bakery",
+        "likes": 28,
+        "rating": 7.3,
+        "isOpen": null,
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Hummus and Couscous Bar",
+        "location": {
+            "address": "Rožňavská 1A",
+            "lat": 48.167456289000754,
+            "lng": 17.15356167413412,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.167456289000754,
+                    "lng": 17.15356167413412
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Rožňavská 1A",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 905 801 401",
+        "cat": "Falafel Restaurant",
+        "likes": 43,
+        "rating": 8.2,
+        "description": "Sme prvým HUMMUS AND COUS COUS BAROM na Slovensku. Reštaurácia je zameraná na rôzne druhy couscous šalátov, na tradičné kombinácie pokrmov podávaných s hummusom a rôzne ďalšie pokrmy typické pre Blízky východ. Objavujte s nami autentické chute.",
+        "url": "http://hummusandcouscousbar.com",
+        "isOpen": null,
+        "hours": {
+            "status": "Closed until 11:00 AM tomorrow",
+            "richStatus": {
+                "entities": [],
+                "text": "Closed until 11:00 AM tomorrow"
+            },
+            "isOpen": false,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–7:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–2:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/falafel_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Gonnsuke Ramen",
+        "location": {
+            "address": "Rožňavská 1A",
+            "lat": 48.1674650579087,
+            "lng": 17.15358069649258,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.1674650579087,
+                    "lng": 17.15358069649258
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Rožňavská 1A",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 917 842 182",
+        "cat": "Ramen Restaurant",
+        "likes": 30,
+        "rating": 8.2,
+        "description": "Genuine Japanese Ramen in Bratislava. Prepared by Japanese chef while respecting traditional recipes",
+        "isOpen": null,
+        "hours": {
+            "status": "Closed until 10:00 AM tomorrow",
+            "richStatus": {
+                "entities": [],
+                "text": "Closed until 10:00 AM tomorrow"
+            },
+            "isOpen": false,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–7:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–2:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ramen_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Punjabi Dhaba",
+        "location": {
+            "lat": 48.148488801842284,
+            "lng": 17.147488408802214,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.148488801842284,
+                    "lng": 17.147488408802214
+                }
+            ],
+            "postalCode": "821 09",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "821 09 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Indian Restaurant",
+        "likes": 19,
+        "rating": 8.6,
+        "isOpen": null,
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Paella bar",
+        "location": {
+            "address": "Rožňavská 1A",
+            "lat": 48.167479766622954,
+            "lng": 17.153565456582342,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.167479766622954,
+                    "lng": 17.153565456582342
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Rožňavská 1A",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Paella Restaurant",
+        "likes": 15,
+        "rating": 8.1,
+        "isOpen": null,
+        "price": 3,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/paella_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Igi & Flo - Coffee & Cakes",
+        "location": {
+            "address": "Drienova 40",
+            "lat": 48.16063694653403,
+            "lng": 17.165108986864684,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16063694653403,
+                    "lng": 17.165108986864684
+                }
+            ],
+            "postalCode": "821 02",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Drienova 40",
+                "821 02 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Café",
+        "likes": 22,
+        "rating": 7.1,
+        "isOpen": null,
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Reserva",
+        "location": {
+            "address": "Na križovatkách 80",
+            "lat": 48.16986416509412,
+            "lng": 17.173479968420153,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16986416509412,
+                    "lng": 17.173479968420153
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Na križovatkách 80",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/207 642 03",
+        "cat": "Eastern European Restaurant",
+        "likes": 43,
+        "rating": 8.5,
+        "url": "http://reserva-restaurant.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat–Sun",
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Planétka",
+        "location": {
+            "address": "Drieňová 37",
+            "crossStreet": "Sputniková",
+            "lat": 48.16194228654885,
+            "lng": 17.16941353473864,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16194228654885,
+                    "lng": 17.16941353473864
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Drieňová 37 (Sputniková)",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/433 302 59",
+        "cat": "Pizza Place",
+        "likes": 50,
+        "rating": 7.3,
+        "url": "http://www.planetka.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until Midnight",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until Midnight"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–Midnight"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Maharadža",
+        "location": {
+            "address": "Komárnická 11",
+            "crossStreet": "Átrium",
+            "lat": 48.15813501162348,
+            "lng": 17.155972625874053,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15813501162348,
+                    "lng": 17.155972625874053
+                }
+            ],
+            "postalCode": "821 03",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Komárnická 11 (Átrium)",
+                "821 03 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 918 307 720",
+        "cat": "Indian Restaurant",
+        "likes": 39,
+        "rating": 7.1,
+        "description": "V našej reštaurácii Maharadža podávame jedlá z oblasti Bengálskeho zálivu a Kašmíru a pri ich príprave používame výlučne originálne indické korenia a bylinky. Naše jedlo nie je len \"pikantné\" alebo \"kari\", ale vyznačuje sa najrôznejšími odtienkami chutí. E-mail: maharadza@maharadza.sk",
+        "url": "http://www.maharadza.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "Noon–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sun",
+                    "open": [
+                        {
+                            "renderedTime": "Noon–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Deli",
+        "location": {
+            "address": "Rožňavská 1A",
+            "lat": 48.166446276012834,
+            "lng": 17.150910667693886,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.166446276012834,
+                    "lng": 17.150910667693886
+                }
+            ],
+            "postalCode": "831 01",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Rožňavská 1A",
+                "831 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 948 000 000",
+        "cat": "Salad Place",
+        "likes": 19,
+        "rating": 7.8,
+        "isOpen": null,
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/salad_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "La Putika",
+        "location": {
+            "address": "Ružinovská 44",
+            "lat": 48.15811479699057,
+            "lng": 17.17625578534217,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15811479699057,
+                    "lng": 17.17625578534217
+                }
+            ],
+            "postalCode": "821 03",
+            "cc": "SK",
+            "neighborhood": "Ružinov",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ružinovská 44",
+                "821 03 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 948 461 125",
+        "cat": "Café",
+        "likes": 34,
+        "rating": 7.4,
+        "url": "http://www.laputika.sk",
+        "isOpen": null,
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Hambáč",
+        "location": {
+            "address": "Bajlalska 19",
+            "lat": 48.15953,
+            "lng": 17.142834,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15953,
+                    "lng": 17.142834
+                }
+            ],
+            "postalCode": "821 02",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Bajlalska 19",
+                "821 02 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Burger Joint",
+        "likes": 15,
+        "rating": 7.9,
+        "url": "http://www.hambac.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–2:00 PM"
+                        },
+                        {
+                            "renderedTime": "4:00 PM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "3:00 PM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Pizza SALERNO",
+        "location": {
+            "address": "Rožňavská 1A",
+            "lat": 48.16747921961298,
+            "lng": 17.15361022852292,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16747921961298,
+                    "lng": 17.15361022852292
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Rožňavská 1A",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Pizza Place",
+        "likes": 6,
+        "rating": 7.6,
+        "isOpen": null,
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Café Gallery",
+        "location": {
+            "address": "Tomášikova 10/E2",
+            "crossStreet": "Obilná",
+            "lat": 48.154268728833465,
+            "lng": 17.16476624857054,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.154268728833465,
+                    "lng": 17.16476624857054
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Tomášikova 10/E2 (Obilná)",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/434 103 56",
+        "cat": "Café",
+        "likes": 14,
+        "rating": 6.8,
+        "description": "Follow CAFÉ GALLERY and find the place, where you have good special coffee products, quality selection of wines from around the world, well mannered staff, pleasant environment and enjoy the true atmosphere of the gallery images.",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 1:00 AM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 1:00 AM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–1:00 AM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat–Sun",
+                    "open": [
+                        {
+                            "renderedTime": "Noon–Midnight"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Green Bike Cafe",
+        "location": {
+            "address": "Ružová dolina 25",
+            "crossStreet": "Trenčianska",
+            "lat": 48.15226210989823,
+            "lng": 17.14209588292915,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15226210989823,
+                    "lng": 17.14209588292915
+                }
+            ],
+            "postalCode": "821 09",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ružová dolina 25 (Trenčianska)",
+                "821 09 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 918 577 651",
+        "cat": "Café",
+        "likes": 49,
+        "rating": 8,
+        "description": "Bistro & Cafe",
+        "url": "http://www.greenbikecafe.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–2:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Mottolino",
+        "location": {
+            "address": "Mierová 60",
+            "lat": 48.14970363610376,
+            "lng": 17.17348217220958,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.14970363610376,
+                    "lng": 17.17348217220958
+                }
+            ],
+            "postalCode": "821 05",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Mierová 60",
+                "821 05 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/436 305 42",
+        "cat": "Pizza Place",
+        "likes": 23,
+        "rating": 7.4,
+        "isOpen": null,
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "TOWERS",
+        "location": {
+            "address": "Bajkalská 9",
+            "lat": 48.162652749069835,
+            "lng": 17.140366721903455,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.162652749069835,
+                    "lng": 17.140366721903455
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Bajkalská 9",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 917 488 046",
+        "cat": "Steakhouse",
+        "likes": 92,
+        "rating": 8,
+        "description": "Najlepšie steaky, veľký výber šalátov, raňajky, denné menu, detský kútik, parkovanie zdarma. Každú sobotu živé kapely. Firemné a rodinné akcie, reštaurácia sa nachádza v modernom komplexe Tri veže na rohu.",
+        "url": "http://www.towersrestaurant.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 11:59 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 11:59 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Thu",
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–11:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–11:59 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–1:00 AM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sun",
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–11:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Jedna Báseň",
+        "location": {
+            "address": "Ružinovská 28",
+            "lat": 48.156667143549626,
+            "lng": 17.164228793162856,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.156667143549626,
+                    "lng": 17.164228793162856
+                }
+            ],
+            "postalCode": "821 03",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ružinovská 28",
+                "821 03 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 903 836 363",
+        "cat": "Italian Restaurant",
+        "likes": 37,
+        "rating": 6.7,
+        "description": "Modern european kitchen",
+        "url": "http://www.jednabasen.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat–Sun",
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Bang Tofu",
+        "location": {
+            "lat": 48.15199291774493,
+            "lng": 17.141712448100442,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15199291774493,
+                    "lng": 17.141712448100442
+                }
+            ],
+            "postalCode": "821 09",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "821 09 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Asian Restaurant",
+        "likes": 14,
+        "rating": 7.7,
+        "isOpen": null,
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Ružinovská Klubovňa",
+        "location": {
+            "address": "Herlianska 6",
+            "lat": 48.15820926860808,
+            "lng": 17.15673854787854,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15820926860808,
+                    "lng": 17.15673854787854
+                }
+            ],
+            "postalCode": "821 02",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Herlianska 6",
+                "821 02 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 911 406 380",
+        "cat": "Gastropub",
+        "likes": 82,
+        "rating": 6.7,
+        "description": "Fourth beer pub from Slovak chain Klubovňa. Great beer, exquisite food and an awesome atmosphere can't be missing.",
+        "url": "http://www.nasaklubovna.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 1:00 AM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 1:00 AM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Thu, Sun",
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–Midnight"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Fri–Sat",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–1:00 AM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "DollFin Poke",
+        "location": {
+            "lat": 48.167485,
+            "lng": 17.153525,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.167485,
+                    "lng": 17.153525
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Hawaiian Restaurant",
+        "likes": 7,
+        "rating": 7.2,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Centrum Rafael",
+        "location": {
+            "address": "Narcisová 5",
+            "lat": 48.15584992446198,
+            "lng": 17.16084206243805,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15584992446198,
+                    "lng": 17.16084206243805
+                }
+            ],
+            "postalCode": "821 03",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Narcisová 5",
+                "821 03 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Playground",
+        "likes": 9,
+        "rating": 8.5,
+        "url": "http://www.centrumrafael.sk",
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Park na Ostredkoch",
+        "location": {
+            "address": "Drieňová",
+            "crossStreet": "Ostredková",
+            "lat": 48.16144821821962,
+            "lng": 17.168583869934082,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16144821821962,
+                    "lng": 17.168583869934082
+                }
+            ],
+            "postalCode": "821 01",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Drieňová (Ostredková)",
+                "821 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Park",
+        "likes": 38,
+        "rating": 8.8,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "FitCamp",
+        "location": {
+            "address": "Drieňová 11/A",
+            "lat": 48.16095354167764,
+            "lng": 17.152478446247752,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16095354167764,
+                    "lng": 17.152478446247752
+                }
+            ],
+            "postalCode": "821 03",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Drieňová 11/A",
+                "821 03 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 918 695 977",
+        "cat": "Gym",
+        "likes": 57,
+        "rating": 9.1,
+        "url": "http://www.fitcamp.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "6:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat–Sun",
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Park Andreja Hlinku",
+        "location": {
+            "address": "Ružinovská",
+            "lat": 48.1566746122705,
+            "lng": 17.158563137054443,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.1566746122705,
+                    "lng": 17.158563137054443
+                }
+            ],
+            "cc": "SK",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ružinovská",
+                "Slovensko"
+            ]
+        },
+        "cat": "Park",
+        "likes": 47,
+        "rating": 7.5,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Štrkovecké jazero",
+        "location": {
+            "address": "Ružinovská",
+            "lat": 48.15789847262787,
+            "lng": 17.147469520568848,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15789847262787,
+                    "lng": 17.147469520568848
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ružinovská",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Lake",
+        "likes": 119,
+        "rating": 9,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Jazero Rohlík",
+        "location": {
+            "crossStreet": "Ružinov",
+            "lat": 48.154040909735414,
+            "lng": 17.155719062730412,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.154040909735414,
+                    "lng": 17.155719062730412
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ružinov",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Lake",
+        "likes": 8,
+        "rating": 7.7,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lake_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Verejné športovisko Nevädzová",
+        "location": {
+            "address": "Sedmokrásková 1",
+            "crossStreet": "Nevädzová",
+            "lat": 48.15248401675038,
+            "lng": 17.156377778778058,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15248401675038,
+                    "lng": 17.156377778778058
+                }
+            ],
+            "postalCode": "821 01",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Sedmokrásková 1 (Nevädzová)",
+                "821 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Athletics & Sports",
+        "likes": 12,
+        "rating": 7.7,
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "4:00 PM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat–Sun",
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Retro Sport & Wellness",
+        "location": {
+            "address": "Nevädzová 6",
+            "crossStreet": "OC Retro",
+            "lat": 48.15188222392307,
+            "lng": 17.15732262617876,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15188222392307,
+                    "lng": 17.15732262617876
+                }
+            ],
+            "postalCode": "821 01",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Nevädzová 6 (OC Retro)",
+                "821 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/434 310 59",
+        "cat": "Gym",
+        "likes": 34,
+        "rating": 7.6,
+        "url": "http://www.retrosport.sk",
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Hot Yoga Centrum",
+        "location": {
+            "address": "Klincova",
+            "crossStreet": "Mraziarenska ul.",
+            "lat": 48.15472952503422,
+            "lng": 17.14184783707973,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15472952503422,
+                    "lng": 17.14184783707973
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Klincova (Mraziarenska ul.)",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 915 118 908",
+        "cat": "Yoga Studio",
+        "likes": 32,
+        "rating": 9,
+        "url": "http://www.hyc.sk",
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Areál hier Radosť Štrkovec",
+        "location": {
+            "address": "Štrkovecké jazero",
+            "lat": 48.15764812209729,
+            "lng": 17.145143079731028,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15764812209729,
+                    "lng": 17.145143079731028
+                }
+            ],
+            "postalCode": "821 01",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Štrkovecké jazero",
+                "821 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/434 209 72",
+        "cat": "Playground",
+        "likes": 17,
+        "rating": 7.8,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "RedRoyal CrossFit Bratislava",
+        "location": {
+            "address": "Trnavská Cesta 39",
+            "lat": 48.163497128935205,
+            "lng": 17.143828525584734,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.163497128935205,
+                    "lng": 17.143828525584734
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Trnavská Cesta 39",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Gym",
+        "likes": 20,
+        "rating": 7.9,
+        "url": "http://www.crossfitbratislava.sk",
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Lezecké centrum Vertigo",
+        "location": {
+            "address": "Trenčianska 47",
+            "lat": 48.15237392429457,
+            "lng": 17.138871268403964,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15237392429457,
+                    "lng": 17.138871268403964
+                }
+            ],
+            "postalCode": "821 08",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Trenčianska 47",
+                "821 08 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 948 223 173",
+        "cat": "Climbing Gym",
+        "likes": 46,
+        "rating": 8.5,
+        "url": "http://www.lezeckecentrum.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon, Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "3:00 PM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Tue–Thu",
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat–Sun",
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Športpark Jama",
+        "location": {
+            "address": "Odbojárov",
+            "crossStreet": "Kalinčiakova",
+            "lat": 48.16162785654047,
+            "lng": 17.13465160278739,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16162785654047,
+                    "lng": 17.13465160278739
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "neighborhood": "Nové Mesto",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Odbojárov (Kalinčiakova)",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Recreation Center",
+        "likes": 9,
+        "rating": 8.2,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Maximum Performance",
+        "location": {
+            "address": "Tomášikova 19",
+            "lat": 48.15945758475172,
+            "lng": 17.161154753876215,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15945758475172,
+                    "lng": 17.161154753876215
+                }
+            ],
+            "postalCode": "820 29",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Tomášikova 19",
+                "820 29 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/482 699 99",
+        "cat": "Gym / Fitness Center",
+        "likes": 9,
+        "rating": 6.5,
+        "url": "http://www.maxperformance.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat–Sun",
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Bežecká dráha Štrkovecké jazero",
+        "location": {
+            "address": "Štrkovecké jazero",
+            "lat": 48.158002758403256,
+            "lng": 17.14588646888996,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.158002758403256,
+                    "lng": 17.14588646888996
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Štrkovecké jazero",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Track",
+        "likes": 8,
+        "rating": 7,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_track_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Plaváreň Pasienky",
+        "location": {
+            "address": "Junácka 4",
+            "lat": 48.16638591819721,
+            "lng": 17.13786179393254,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16638591819721,
+                    "lng": 17.13786179393254
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Junácka 4",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/492 096 63",
+        "cat": "Pool",
+        "likes": 51,
+        "rating": 7.7,
+        "url": "http://www.starz.sk/vismo/dokumenty2.asp?id=1001",
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "InPulse Fitness",
+        "location": {
+            "address": "Príkopova 6",
+            "lat": 48.162397020882956,
+            "lng": 17.135865373806276,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.162397020882956,
+                    "lng": 17.135865373806276
+                }
+            ],
+            "postalCode": "831 03",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Príkopova 6",
+                "831 03 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/492 098 52",
+        "cat": "Gym",
+        "likes": 21,
+        "rating": 7.7,
+        "url": "http://www.inpulse.sk",
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Kúpalisko Tehelné pole",
+        "location": {
+            "address": "Odbojárov 9",
+            "lat": 48.16089716494918,
+            "lng": 17.13567852973938,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16089716494918,
+                    "lng": 17.13567852973938
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "neighborhood": "Nové Mesto",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Odbojárov 9",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/443 728 28",
+        "cat": "Pool",
+        "likes": 20,
+        "rating": 7.6,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Kúpalisko Delfín",
+        "location": {
+            "address": "Ružová dolina 11",
+            "lat": 48.14975316838055,
+            "lng": 17.14193344116211,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.14975316838055,
+                    "lng": 17.14193344116211
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ružová dolina 11",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/534 155 53",
+        "cat": "Pool",
+        "likes": 22,
+        "rating": 7.1,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/pool_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "STAR fit",
+        "location": {
+            "address": "Junácka 4",
+            "lat": 48.16606305731251,
+            "lng": 17.137574169155886,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16606305731251,
+                    "lng": 17.137574169155886
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Junácka 4",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/556 408 18",
+        "cat": "Gym / Fitness Center",
+        "likes": 24,
+        "rating": 7.2,
+        "url": "http://www.starfit.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sat",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "6:30 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sun",
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Fitness Astra",
+        "location": {
+            "address": "Martinčekova ulica č. 33, Ružová dolina",
+            "lat": 48.14869532164502,
+            "lng": 17.144702954621494,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.14869532164502,
+                    "lng": 17.144702954621494
+                }
+            ],
+            "postalCode": "821 09",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Martinčekova ulica č. 33, Ružová dolina",
+                "821 09 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/534 113 86",
+        "cat": "Gym",
+        "likes": 11,
+        "rating": 6.9,
+        "description": "Fitness centrum Astra sa radí medzi bratislavské stálice, za dobu našej existencie u nás nechali naši \nzákazníci desiatky ton tukov a vzali si približne rovnaké množstvo svalov. V našej ponuke sa nachádza všetko potrebné na uspokojenie aj tých najnáročnejších zákazníkov a vyznávačov fitness štýlu...",
+        "url": "http://www.fitness-astra.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Thu",
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat–Sun",
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–8:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Fit STaRZ",
+        "location": {
+            "address": "Odbojárov 7",
+            "crossStreet": "Nové mesto",
+            "lat": 48.160656118595284,
+            "lng": 17.1344773969368,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.160656118595284,
+                    "lng": 17.1344773969368
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Odbojárov 7 (Nové mesto)",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/443 728 27",
+        "cat": "Gym / Fitness Center",
+        "likes": 10,
+        "rating": 7,
+        "description": "Čakajú na Vás kvalitné posilňovacie stroje a stroje pre Vaše deti, zumba, masáže..., útulný interiér a kvalitné poradenstvo.",
+        "url": "http://www.starz.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "6:30 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat–Sun",
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–8:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Detské ihrisko Nová Doba",
+        "location": {
+            "address": "Vajnorská 66",
+            "lat": 48.16438711639703,
+            "lng": 17.135057039865405,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16438711639703,
+                    "lng": 17.135057039865405
+                }
+            ],
+            "postalCode": "831 03",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Vajnorská 66",
+                "831 03 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Playground",
+        "likes": 6,
+        "rating": 6.9,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Golem Club",
+        "location": {
+            "address": "Ivanská cesta 16",
+            "lat": 48.1649711718318,
+            "lng": 17.181897124500484,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.1649711718318,
+                    "lng": 17.181897124500484
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ivanská cesta 16",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 917 508 641",
+        "cat": "Gym / Fitness Center",
+        "likes": 19,
+        "rating": 6.5,
+        "url": "http://www.golemclub.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "6:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat–Sun",
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Športcentrum K1",
+        "location": {
+            "address": "Vietnamská 43",
+            "lat": 48.1677383938609,
+            "lng": 17.172961235046387,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.1677383938609,
+                    "lng": 17.172961235046387
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Vietnamská 43",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 910 113 789",
+        "cat": "Gym",
+        "likes": 10,
+        "rating": 6.3,
+        "url": "http://www.sportcentrumk1.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "7:45 AM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–6:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sun",
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Športová hala Mladosť",
+        "location": {
+            "lat": 48.16345430116857,
+            "lng": 17.144854332898575,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16345430116857,
+                    "lng": 17.144854332898575
+                }
+            ],
+            "cc": "SK",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Slovensko"
+            ]
+        },
+        "cat": "Soccer Field",
+        "likes": 13,
+        "rating": 6.3,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Park pred PEVS",
+        "location": {
+            "lat": 48.15827863480715,
+            "lng": 17.16451992102506,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15827863480715,
+                    "lng": 17.16451992102506
+                }
+            ],
+            "cc": "SK",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Slovensko"
+            ]
+        },
+        "cat": "Park",
+        "likes": 3,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Ihrisko Ostredkova",
+        "location": {
+            "address": "Ostredkova",
+            "lat": 48.16132218556453,
+            "lng": 17.168806441427805,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16132218556453,
+                    "lng": 17.168806441427805
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ostredkova",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Playground",
+        "likes": 0,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Tenis club Trnávka",
+        "location": {
+            "address": "Vietnamská 21/A",
+            "lat": 48.170268348401144,
+            "lng": 17.169957832683806,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.170268348401144,
+                    "lng": 17.169957832683806
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Vietnamská 21/A",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/434 269 81",
+        "cat": "Tennis Court",
+        "likes": 12,
+        "rating": 6,
+        "url": "http://www.tenisclubtrnavka.sk",
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "cvicisko",
+        "location": {
+            "address": "Tomasikova 26",
+            "lat": 48.162669716756525,
+            "lng": 17.158383127828994,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.162669716756525,
+                    "lng": 17.158383127828994
+                }
+            ],
+            "postalCode": "821 02",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Tomasikova 26",
+                "821 02 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Gym",
+        "likes": 6,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Záhradné centrum Kulla",
+        "location": {
+            "address": "Trnavská cesta 110/B",
+            "lat": 48.16393196363751,
+            "lng": 17.159042032505845,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16393196363751,
+                    "lng": 17.159042032505845
+                }
+            ],
+            "postalCode": "821 01",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Trnavská cesta 110/B",
+                "821 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/434 289 00",
+        "cat": "Flower Shop",
+        "likes": 8,
+        "rating": 8,
+        "url": "http://kulla.eu",
+        "isOpen": null,
+        "hours": {
+            "status": "Closed until 8:00 AM tomorrow",
+            "richStatus": {
+                "entities": [],
+                "text": "Closed until 8:00 AM tomorrow"
+            },
+            "isOpen": false,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sat",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–7:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sun",
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–6:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/flowershop_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Fresh Market",
+        "location": {
+            "address": "Rožňavská 1A",
+            "lat": 48.16728,
+            "lng": 17.15366,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16728,
+                    "lng": 17.15366
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "neighborhood": "Nové Mesto",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Rožňavská 1A",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 903 909 767",
+        "cat": "Farmers Market",
+        "likes": 432,
+        "rating": 8.8,
+        "description": "Ovocie a zelenina, mäso, ryby, pekárenské, mliečne výrobky, zdravá výživa. Vegetariánska i mäsitá kuchyňa. Dobrá káva, víno, pivo či fresh šťavy.",
+        "url": "https://www.freshmarket.sk",
+        "isOpen": null,
+        "hours": {
+            "status": "Closed until 7:00 AM tomorrow",
+            "richStatus": {
+                "entities": [],
+                "text": "Closed until 7:00 AM tomorrow"
+            },
+            "isOpen": false,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–7:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–4:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_farmersmarket_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "yeme",
+        "location": {
+            "address": "Tomášikova 46/A",
+            "crossStreet": "Rožňavská",
+            "lat": 48.166712752994194,
+            "lng": 17.15115798238956,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.166712752994194,
+                    "lng": 17.15115798238956
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "neighborhood": "Nové Mesto",
+            "city": "Bratislava",
+            "state": "Bratislava Region",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Tomášikova 46/A (Rožňavská)",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Health Food Store",
+        "likes": 216,
+        "rating": 8.7,
+        "description": "Konečne poriadne potraviny aj na Slovensku.",
+        "url": "http://www.yeme.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Univerzitná lekáreň",
+        "location": {
+            "address": "Ružinovská 12",
+            "lat": 48.15557732083921,
+            "lng": 17.15561772062468,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15557732083921,
+                    "lng": 17.15561772062468
+                }
+            ],
+            "postalCode": "821 01",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ružinovská 12",
+                "821 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/482 110 11",
+        "cat": "Pharmacy",
+        "likes": 10,
+        "rating": 7.2,
+        "description": "K dispozícii je stála pohotovostná služba.",
+        "url": "http://www.univerzitnalekaren.sk",
+        "isOpen": null,
+        "hours": {
+            "status": "Closed until 7:00 AM tomorrow",
+            "richStatus": {
+                "entities": [],
+                "text": "Closed until 7:00 AM tomorrow"
+            },
+            "isOpen": false,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–7:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–1:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "iHRYsko.sk",
+        "location": {
+            "address": "Trenčianska 47",
+            "lat": 48.15201903458331,
+            "lng": 17.13916656917917,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15201903458331,
+                    "lng": 17.13916656917917
+                }
+            ],
+            "cc": "SK",
+            "city": "Ružinov",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Trenčianska 47",
+                "Bratislava - Ružinov",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 948 330 131",
+        "cat": "Toy / Game Store",
+        "likes": 20,
+        "rating": 8.7,
+        "url": "http://www.ihrysko.sk",
+        "isOpen": null,
+        "hours": {
+            "status": "Closed until 9:00 AM tomorrow",
+            "richStatus": {
+                "entities": [],
+                "text": "Closed until 9:00 AM tomorrow"
+            },
+            "isOpen": false,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–6:30 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–Noon"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/toys_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "ZooDom",
+        "location": {
+            "address": "Bajkalská 29/F",
+            "lat": 48.150736,
+            "lng": 17.149379,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.150736,
+                    "lng": 17.149379
+                }
+            ],
+            "postalCode": "821 01",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Bajkalská 29/F",
+                "821 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 918 605 900",
+        "cat": "Pet Store",
+        "likes": 24,
+        "rating": 7.6,
+        "description": "Najväčšia značková predajňa chovateľských potrieb a živých zvierat na Slovensku. www.zoodom.sk",
+        "url": "http://www.zoodom.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 8:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 8:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–8:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pet_store_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Centrálne trhovisko",
+        "location": {
+            "address": "Miletičova 54",
+            "crossStreet": "Košická",
+            "lat": 48.15331069840561,
+            "lng": 17.136865375252714,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15331069840561,
+                    "lng": 17.136865375252714
+                }
+            ],
+            "postalCode": "821 08",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Miletičova 54 (Košická)",
+                "821 08 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/555 614 10",
+        "cat": "Farmers Market",
+        "likes": 224,
+        "rating": 8.3,
+        "description": "Trhovisko Miletičova - meno, ktoré je známe aj za hranicami Bratislavy. Trhovisko, kde nájdete naozaj všetko.",
+        "url": "http://www.rpvps.sk/z-nasej-mileticky",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 8:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 8:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "6:00 AM–8:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "6:00 AM–3:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_farmersmarket_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "IKEA",
+        "location": {
+            "address": "Ivanská cesta 4329/18",
+            "lat": 48.16806929957369,
+            "lng": 17.182821183505453,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16806929957369,
+                    "lng": 17.182821183505453
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ivanská cesta 4329/18",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/434 124 12",
+        "cat": "Furniture / Home Store",
+        "likes": 578,
+        "rating": 7.9,
+        "url": "http://www.ikea.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/furniture_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Trekland",
+        "location": {
+            "address": "Ivanska cesta",
+            "lat": 48.165875,
+            "lng": 17.172253,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.165875,
+                    "lng": 17.172253
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ivanska cesta",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Sporting Goods Shop",
+        "likes": 7,
+        "rating": 7.2,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Decathlon",
+        "location": {
+            "lat": 48.16208299898047,
+            "lng": 17.19057177480255,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16208299898047,
+                    "lng": 17.19057177480255
+                }
+            ],
+            "cc": "SK",
+            "neighborhood": "Trnávka",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Sporting Goods Shop",
+        "likes": 83,
+        "rating": 7.7,
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "H&M",
+        "location": {
+            "address": "Ivanská cesta 16",
+            "lat": 48.167343044334196,
+            "lng": 17.1796265244484,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.167343044334196,
+                    "lng": 17.1796265244484
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ivanská cesta 16",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/487 003 21",
+        "cat": "Clothing Store",
+        "likes": 22,
+        "rating": 7.1,
+        "url": "http://hm.com",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat–Sun",
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Kníhkupectvo Panta Rhei",
+        "location": {
+            "address": "Ivanská cesta 16",
+            "lat": 48.1673442827124,
+            "lng": 17.180464330981614,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.1673442827124,
+                    "lng": 17.180464330981614
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ivanská cesta 16",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/436 346 68",
+        "cat": "Bookstore",
+        "likes": 19,
+        "rating": 7.1,
+        "url": "http://www.pantarhei.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "dm drogerie markt",
+        "location": {
+            "address": "Nevädzová 6",
+            "lat": 48.152235242752525,
+            "lng": 17.157911809779467,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.152235242752525,
+                    "lng": 17.157911809779467
+                }
+            ],
+            "postalCode": "821 01",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Nevädzová 6",
+                "821 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Drugstore",
+        "likes": 6,
+        "rating": 6.4,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "notino.sk",
+        "location": {
+            "address": "Bajkalská 9",
+            "lat": 48.164051355863684,
+            "lng": 17.13940119011617,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.164051355863684,
+                    "lng": 17.13940119011617
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Bajkalská 9",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/205 702 50",
+        "cat": "Perfume Shop",
+        "likes": 35,
+        "rating": 7.2,
+        "url": "http://www.notino.sk",
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Zara",
+        "location": {
+            "address": "Ivanská cesta 16",
+            "lat": 48.16736361867873,
+            "lng": 17.180543065386786,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16736361867873,
+                    "lng": 17.180543065386786
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ivanská cesta 16",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Clothing Store",
+        "likes": 11,
+        "rating": 7,
+        "url": "http://www.zara.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Sconto Nábytok",
+        "location": {
+            "address": "Pharos Park",
+            "lat": 48.16313882745388,
+            "lng": 17.186299517727925,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16313882745388,
+                    "lng": 17.186299517727925
+                }
+            ],
+            "postalCode": "821 02",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "SVK",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Pharos Park",
+                "821 02 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/402 028 00",
+        "cat": "Furniture / Home Store",
+        "likes": 30,
+        "rating": 7.1,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/furniture_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "iStores",
+        "location": {
+            "address": "Ivanská cesta 16",
+            "lat": 48.167114,
+            "lng": 17.179792,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.167114,
+                    "lng": 17.179792
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ivanská cesta 16",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/209 015 50",
+        "cat": "Electronics Store",
+        "likes": 17,
+        "rating": 6.9,
+        "description": "Hlavnou aktivitou našej spoločnosti je predaj počítačov Apple a systémových riešení, ktorých jadrom sú produkty od spoločnosti Apple Inc",
+        "url": "http://www.istores.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat–Sun",
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/technology_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Kaufland Pezinok",
+        "location": {
+            "address": "Obchodná 24",
+            "lat": 48.1624,
+            "lng": 17.14261,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.1624,
+                    "lng": 17.14261
+                }
+            ],
+            "postalCode": "902 01",
+            "cc": "SK",
+            "neighborhood": "Nové Mesto",
+            "city": "Pezinok",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Obchodná 24",
+                "902 01 Pezinok",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 800 152 835",
+        "cat": "Supermarket",
+        "likes": 7,
+        "rating": 6.8,
+        "description": "Naše obchodné domy vám splnia každé želanie. Budete nadšení z našich zákazníckych záruk a nášho servisu, z vysokej kvality, z veľmi bohatej ponuky sortimentu a samozrejme z našich známych nízkych cien. Naša ponuka siaha od sortimentu výrobkov našej vlastnej značky až po množstvo značkového tovaru.",
+        "url": "http://www.kaufland.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon",
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–6:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Thu–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "dm drogerie markt",
+        "location": {
+            "address": "Ivanská cesta 16",
+            "lat": 48.164896374895264,
+            "lng": 17.18186361469936,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.164896374895264,
+                    "lng": 17.18186361469936
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ivanská cesta 16",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Cosmetics Shop",
+        "likes": 9,
+        "rating": 6.7,
+        "url": "http://www.dm-drogeriemarkt.sk",
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/beauty_cosmetic_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Lidl",
+        "location": {
+            "address": "Ružinovská",
+            "lat": 48.1590891997517,
+            "lng": 17.173756071486956,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.1590891997517,
+                    "lng": 17.173756071486956
+                }
+            ],
+            "postalCode": "821 01",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ružinovská",
+                "821 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 800 005 095",
+        "cat": "Supermarket",
+        "likes": 34,
+        "rating": 6.2,
+        "url": "http://www.lidl.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sat",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sun",
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Lidl",
+        "location": {
+            "address": "Trenčianska 16260/57/A",
+            "lat": 48.154006382223415,
+            "lng": 17.144201795588906,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.154006382223415,
+                    "lng": 17.144201795588906
+                }
+            ],
+            "postalCode": "821 09",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Trenčianska 16260/57/A",
+                "821 09 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 800 005 095",
+        "cat": "Supermarket",
+        "likes": 62,
+        "rating": 6.5,
+        "url": "http://lidl.sk",
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Lidl",
+        "location": {
+            "address": "Galvaniho 24/A",
+            "lat": 48.169707781130995,
+            "lng": 17.175275745424116,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.169707781130995,
+                    "lng": 17.175275745424116
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Galvaniho 24/A",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 800 005 095",
+        "cat": "Supermarket",
+        "likes": 37,
+        "rating": 6.6,
+        "url": "http://www.lidl.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sat",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sun",
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Peek & Cloppenburg",
+        "location": {
+            "address": "Ivanská cesta 16",
+            "lat": 48.16747173012057,
+            "lng": 17.180500724008873,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16747173012057,
+                    "lng": 17.180500724008873
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ivanská cesta 16",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/487 771 00",
+        "cat": "Clothing Store",
+        "likes": 15,
+        "rating": 6.7,
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Bittner Print",
+        "location": {
+            "address": "Ivanská cesta 2C",
+            "lat": 48.16521252668191,
+            "lng": 17.170666810466354,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16521252668191,
+                    "lng": 17.170666810466354
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ivanská cesta 2C",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/581 037 00",
+        "cat": "Print Shop",
+        "likes": 5,
+        "rating": 6.3,
+        "url": "http://www.bittner.sk",
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "predeti.sk",
+        "location": {
+            "address": "Pestovateľská 13",
+            "lat": 48.17072458817873,
+            "lng": 17.18130442290105,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.17072458817873,
+                    "lng": 17.18130442290105
+                }
+            ],
+            "postalCode": "821 09",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Pestovateľská 13",
+                "821 09 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 911 799 457",
+        "cat": "Baby Store",
+        "likes": 17,
+        "rating": 6.8,
+        "url": "http://www.predeti.sk",
+        "isOpen": null,
+        "hours": {
+            "status": "Closed until 10:00 AM tomorrow",
+            "richStatus": {
+                "entities": [],
+                "text": "Closed until 10:00 AM tomorrow"
+            },
+            "isOpen": false,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–7:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_kids_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Avion Shopping Park",
+        "location": {
+            "address": "Ivanská cesta 16",
+            "lat": 48.16635368918128,
+            "lng": 17.180960900151316,
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ivanská cesta 16",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/482 268 00",
+        "cat": "Shopping Mall",
+        "likes": 529,
+        "rating": 6.5,
+        "description": "Avion Shopping Park Bratislava je najväčším a najznámejším nákupným centrom v Bratislave. Príjemné priestory a živá atmosféra láka rodiny a miestnych obyvateľov hlavne na nákup, ale aj k celodenným výletom a víkendovým radovánkam.",
+        "url": "http://www.avion.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Lidl",
+        "location": {
+            "address": "Gagarinova 16657/5A",
+            "lat": 48.1508201384873,
+            "lng": 17.17185245373764,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.1508201384873,
+                    "lng": 17.17185245373764
+                }
+            ],
+            "postalCode": "821 03",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Gagarinova 16657/5A",
+                "821 03 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 800 005 095",
+        "cat": "Supermarket",
+        "likes": 34,
+        "rating": 6.1,
+        "url": "http://www.lidl.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 9:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 9:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sat",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "7:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sun",
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–9:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Hej.sk",
+        "location": {
+            "address": "Pestovateľská 4318/13",
+            "crossStreet": "Ivanská cesta",
+            "lat": 48.17030685806207,
+            "lng": 17.182514962195288,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.17030685806207,
+                    "lng": 17.182514962195288
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Pestovateľská 4318/13 (Ivanská cesta)",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Electronics Store",
+        "likes": 42,
+        "rating": 6.5,
+        "url": "http://hej.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 8:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 8:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–8:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/technology_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Potraviny Malina",
+        "location": {
+            "address": "Tomasikova 9",
+            "lat": 48.1556978802905,
+            "lng": 17.163044280035276,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.1556978802905,
+                    "lng": 17.163044280035276
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Tomasikova 9",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Grocery Store",
+        "likes": 2,
+        "isOpen": null,
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Siko Kúpeľne",
+        "location": {
+            "address": "Galvaniho 16/B",
+            "lat": 48.169661444145945,
+            "lng": 17.17692714112809,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.169661444145945,
+                    "lng": 17.17692714112809
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Galvaniho 16/B",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/202 514 44",
+        "cat": "Furniture / Home Store",
+        "likes": 13,
+        "rating": 6.2,
+        "url": "http://www.siko.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 8:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 8:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "9:00 AM–8:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/furniture_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Hostinec u Deda",
+        "location": {
+            "address": "Zálužická 49",
+            "lat": 48.161809311182225,
+            "lng": 17.155074729779525,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.161809311182225,
+                    "lng": 17.155074729779525
+                }
+            ],
+            "postalCode": "821 01",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Zálužická 49",
+                "821 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/434 252 18",
+        "cat": "Pub",
+        "likes": 254,
+        "rating": 8,
+        "url": "http://www.hostinecudeda.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 2:00 AM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 2:00 AM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Wed",
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–Midnight"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Thu–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "10:00 AM–2:00 AM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–2:00 AM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sun",
+                    "open": [
+                        {
+                            "renderedTime": "11:00 AM–Midnight"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Lagúna",
+        "location": {
+            "address": "Papánkovo nám. 16",
+            "lat": 48.15615143079336,
+            "lng": 17.164222895362037,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15615143079336,
+                    "lng": 17.164222895362037
+                }
+            ],
+            "postalCode": "821 03",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Papánkovo nám. 16",
+                "821 03 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Pub",
+        "likes": 31,
+        "rating": 7.3,
+        "isOpen": null,
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Brew Bar Café",
+        "location": {
+            "address": "Rožňavská 1A",
+            "lat": 48.16747993710078,
+            "lng": 17.153652311915277,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16747993710078,
+                    "lng": 17.153652311915277
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Rožňavská 1A",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Coffee Shop",
+        "likes": 121,
+        "rating": 9.2,
+        "description": "Prvý Brew Bar v Bratislave",
+        "url": "http://www.brewbar.sk",
+        "isOpen": null,
+        "hours": {
+            "status": "Closed until 7:30 AM tomorrow",
+            "richStatus": {
+                "entities": [],
+                "text": "Closed until 7:30 AM tomorrow"
+            },
+            "isOpen": false,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "7:30 AM–7:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "7:30 AM–2:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Fertucha",
+        "location": {
+            "address": "Rožňavská 1A",
+            "lat": 48.16720171955583,
+            "lng": 17.153091430664062,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16720171955583,
+                    "lng": 17.153091430664062
+                }
+            ],
+            "postalCode": "831 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Rožňavská 1A",
+                "831 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 911 810 223",
+        "cat": "Dessert Shop",
+        "likes": 27,
+        "rating": 8.7,
+        "url": "http://www.fertucha.sk",
+        "isOpen": null,
+        "hours": {
+            "status": "Closed until 8:00 AM tomorrow",
+            "richStatus": {
+                "entities": [],
+                "text": "Closed until 8:00 AM tomorrow"
+            },
+            "isOpen": false,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–7:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "8:00 AM–2:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Dvedeci",
+        "location": {
+            "address": "Prešovská 38/A",
+            "lat": 48.16027206111778,
+            "lng": 17.144243906367784,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.16027206111778,
+                    "lng": 17.144243906367784
+                }
+            ],
+            "postalCode": "821 02",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Prešovská 38/A",
+                "821 02 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 911 087 077",
+        "cat": "Wine Bar",
+        "likes": 72,
+        "rating": 9.3,
+        "url": "http://www.dvedeci.sk",
+        "isOpen": true,
+        "hours": {
+            "status": "Open until 10:00 PM",
+            "richStatus": {
+                "entities": [],
+                "text": "Open until 10:00 PM"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Fri",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "1:00 PM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                },
+                {
+                    "days": "Sat",
+                    "open": [
+                        {
+                            "renderedTime": "6:00 PM–10:00 PM"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Wine Bar & Tapas by ParCafé",
+        "location": {
+            "address": "Nevädzova 6",
+            "crossStreet": "Retro",
+            "lat": 48.15230386967107,
+            "lng": 17.158000974861935,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15230386967107,
+                    "lng": 17.158000974861935
+                }
+            ],
+            "postalCode": "821 01",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Nevädzova 6 (Retro)",
+                "821 01 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 902 902 992",
+        "cat": "Wine Bar",
+        "likes": 46,
+        "rating": 7.6,
+        "url": "http://vinobar.sk",
+        "isOpen": null,
+        "price": 2,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "NH Gate One",
+        "location": {
+            "address": "Ambrušova 7",
+            "crossStreet": "Galvaniho",
+            "lat": 48.1663830207735,
+            "lng": 17.177222231001615,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.1663830207735,
+                    "lng": 17.177222231001615
+                }
+            ],
+            "postalCode": "821 04",
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Ambrušova 7 (Galvaniho)",
+                "821 04 Bratislava",
+                "Slovensko"
+            ]
+        },
+        "contact": "+421 2/327 700 00",
+        "cat": "Hotel",
+        "likes": 97,
+        "rating": 8.9,
+        "description": "Enjoy our NH Hoteles hotel in Bratislavia",
+        "url": "http://www.nh-hotels.com/nh/en/hotels/slovakia/bratislava/nh-gate-one.html?nhsubagentid=110095220109&nhagentid=11009",
+        "isOpen": true,
+        "hours": {
+            "status": "Open",
+            "richStatus": {
+                "entities": [],
+                "text": "Open"
+            },
+            "isOpen": true,
+            "isLocalHoliday": false,
+            "dayData": [],
+            "timeframes": [
+                {
+                    "days": "Mon–Sun",
+                    "includesToday": true,
+                    "open": [
+                        {
+                            "renderedTime": "24 Hours"
+                        }
+                    ],
+                    "segments": []
+                }
+            ]
+        },
+        "price": -1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+        },
+        "visible": false
+    },
+    {
+        "name": "Gelateria Da Claudia",
+        "location": {
+            "address": "Drieňová 9",
+            "lat": 48.15763729829529,
+            "lng": 17.144741870013785,
+            "labeledLatLngs": [
+                {
+                    "label": "display",
+                    "lat": 48.15763729829529,
+                    "lng": 17.144741870013785
+                }
+            ],
+            "cc": "SK",
+            "city": "Bratislava",
+            "state": "Bratislavský kraj",
+            "country": "Slovensko",
+            "formattedAddress": [
+                "Drieňová 9",
+                "Bratislava",
+                "Slovensko"
+            ]
+        },
+        "cat": "Ice Cream Shop",
+        "likes": 15,
+        "rating": 8.4,
+        "isOpen": null,
+        "price": 1,
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+            "suffix": ".png"
+        },
+        "visible": false
+    }
+]
