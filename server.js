@@ -5,7 +5,6 @@ const app = new express()
 const publicPath = path.join(__dirname)
 const port = process.env.PORT || 5000;
 const cors = require('cors');
-const axios = require("axios")
 const bodyParser = require("body-parser");
 const helmet = require("helmet")
 const compression = require('compression')
@@ -14,7 +13,7 @@ const Schema = mongoose.Schema;
 require("./models/Categories")
 require("./models/Venue")
 mongoose.Promise = global.Promise
-mongoose.connect(process.env.test, { useNewUrlParser: true })
+mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true })
 
 app.use(bodyParser.json());
 app.use(helmet())
@@ -26,24 +25,24 @@ app.use(compression());
 // initial json imports, manual category grouping needed if required
 let catData = (require("./catSet.json"))
 const Categories = mongoose.model('categories')
-// Categories.collection.insert(catData, (err, result) => {
-//     if(err){
-//         console.log(err)
-//     }
-//     else{
-//         console.log(result)
-//     }
-// })
+Categories.collection.insert(catData, (err, result) => {
+    if(err){
+        console.log(err)
+    }
+    else{
+        console.log(result)
+    }
+})
 const dbImport = require("./dbimport.json")
-// const Venues = mongoose.model("venues");
-// Venues.collection.insertMany(dbImport, (err, result) => {
-//     if(err){
-//         console.log(err)
-//     }
-//     else{
-//         console.log(result)
-//     }
-// })
+const Venues = mongoose.model("venues");
+Venues.collection.insertMany(dbImport, (err, result) => {
+    if(err){
+        console.log(err)
+    }
+    else{
+        console.log(result)
+    }
+})
 
 
 require("./routes/routes")(app)
