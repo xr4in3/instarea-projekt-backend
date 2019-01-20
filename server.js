@@ -13,7 +13,7 @@ const Schema = mongoose.Schema;
 require("./models/Categories")
 require("./models/Venue")
 mongoose.Promise = global.Promise
-mongoose.connect(process.env.test, { useNewUrlParser: true })
+mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true })
 
 app.use(bodyParser.json());
 app.use(helmet())
@@ -21,7 +21,11 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static(publicPath))
 app.use(cors());
 app.use(compression());
-
+app.use(function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    next();
+  });
 // initial json imports, manual category grouping needed if required
 let catData = (require("./catSet.json"))
 const Categories = mongoose.model('categories')
