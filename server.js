@@ -47,7 +47,7 @@ Venues.collection.insertMany(dbImport, (err, result) => {
 
 require("./routes/routes")(app)
 app.get("*", (req, res) => {   
-    res.sendFile("live from port", port)
+    res.send("live from port", port)
 })
 app.listen(port, () => { console.log("server is up, port: ", port) })
 module.exports = { app }
