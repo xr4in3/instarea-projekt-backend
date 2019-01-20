@@ -60,8 +60,8 @@ module.exports = app => {
   //GET VENUES FILTER QS
   app.get("/api/venues/search", (req, res) => {
     let q 
-    santizator.sanitizeQuery().whitelist(["name", "price__gte", "price__lte", "rating", "isOpen", "cat__in"])  
-      let whitelist = ["name", "price__gte", "price__lte", "rating", "isOpen", "cat__in"]
+    santizator.sanitizeQuery().whitelist(["name", "price__gte", "price__lte", "rating__gte", "isOpen", "cat__in"])  
+      let whitelist = ["name", "price__gte", "price__lte", "rating__gte", "isOpen", "cat__in"]
       for (let param of Object.keys(req.query)){
         if (!whitelist.includes(param)){
           res.status(400).send({response: "Invalid query params"})
