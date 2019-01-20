@@ -23,26 +23,26 @@ app.use(cors());
 app.use(compression());
 
 // initial json imports, manual category grouping needed if required
-// let catData = (require("./catSet.json"))
-// const Categories = mongoose.model('categories')
-// Categories.collection.insert(catData, (err, result) => {
-//     if(err){
-//         console.log(err)
-//     }
-//     else{
-//         console.log(result)
-//     }
-// })
-// const dbImport = require("./dbimport.json")
-// const Venues = mongoose.model("venues");
-// Venues.collection.insertMany(dbImport, (err, result) => {
-//     if(err){
-//         console.log(err)
-//     }
-//     else{
-//         console.log(result)
-//     }
-// })
+let catData = (require("./catSet.json"))
+const Categories = mongoose.model('categories')
+Categories.collection.insert(catData, (err, result) => {
+    if(err){
+        console.log(err)
+    }
+    else{
+        console.log(result)
+    }
+})
+const dbImport = require("./dbimport.json")
+const Venues = mongoose.model("venues");
+Venues.collection.insertMany(dbImport, (err, result) => {
+    if(err){
+        console.log(err)
+    }
+    else{
+        console.log(result)
+    }
+})
 
 
 require("./routes/routes")(app)
